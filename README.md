@@ -16,3 +16,5 @@ Beer is not to be ignored completely!
 This is GFI which stands for Good First Issue
 I don't know how exactly to duplicate.....
 To trust or not trust AI?
+
+I would like to know how to create another readme2 file
