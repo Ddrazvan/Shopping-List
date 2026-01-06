@@ -10,3 +10,6 @@ Fruit and Vegetables are a must
 alcohol consumption is dangerous
 
 Tobbaco is deadly
+
+2L of water I meant!
+Beer is not to be ignored completely!
